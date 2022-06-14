@@ -11,13 +11,15 @@
     "skipLibCheck": true,
     "removeComments": true,
     "sourceMap": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "allowJs": true,
+    "declaration": true,
   },
     "include": [
       "src/**/*"
     ],
     "exclude": [
       "node_modules",
-      "**/*.spec.ts"
+      "**/tests/"
     ]
 }
