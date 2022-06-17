@@ -64,11 +64,11 @@ The package aims to give a smooth programming experience, and its inspired in fr
 - ### Bases
   **C**ommand **Q**uery **R**esponsability **S**egregation is a design pattern that aims to keep the infrastructure handler and the service handler decoupled.
 
-## Geting Started
+## Getting Started
 
 All the code for this example is public on the [leivaa21/simple-cqrs-express-example](https://github.com/leivaa21/simple-cqrs-express-example) repository.
 
-- ### Prerequistes
+- ### Prerequisites
 
   - Made using:
 
